@@ -1,0 +1,174 @@
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\ApplicationInsights.config
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\roslyn\csc.exe
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\roslyn\System.Collections.Immutable.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\roslyn\vbc.exe
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\roslyn\VBCSCompiler.exe
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\roslyn\VBCSCompiler.exe.config
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\JiraNemonicIntegration.dll.config
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\JiraNemonicIntegration.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\JiraNemonicIntegration.pdb
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Antlr3.Runtime.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\EntityFramework.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\EntityFramework.SqlServer.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.AI.Web.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.AI.WindowsServer.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.ApplicationInsights.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.Owin.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.Owin.Security.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.Owin.Security.Google.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Newtonsoft.Json.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Owin.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\System.Web.Helpers.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\System.Web.Mvc.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\System.Web.Optimization.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\System.Web.Razor.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\System.Web.WebPages.Deployment.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\System.Web.WebPages.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\System.Web.WebPages.Razor.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\WebGrease.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.AI.Web.xml
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.AI.WindowsServer.xml
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.ApplicationInsights.xml
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\System.Web.Helpers.xml
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\System.Web.Mvc.xml
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\System.Web.Optimization.xml
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\System.Web.Razor.xml
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\System.Web.WebPages.xml
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\System.Web.WebPages.Deployment.xml
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\System.Web.WebPages.Razor.xml
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Antlr3.Runtime.pdb
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Newtonsoft.Json.xml
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\EntityFramework.xml
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\EntityFramework.SqlServer.xml
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.Owin.xml
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.Owin.Security.xml
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.Owin.Security.Google.xml
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\obj\Debug\JiraNemonicIntegration.csprojResolveAssemblyReference.cache
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\obj\Debug\JiraNemonicIntegration.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\obj\Debug\JiraNemonicIntegration.pdb
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\Atlassian.Jira.dll
+c:\users\mhpra\documents\visual studio 2015\Projects\JiraNemonicIntegration\JiraNemonicIntegration\bin\RestSharp.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\ApplicationInsights.config
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\roslyn\csc.exe
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\roslyn\vbc.exe
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\roslyn\VBCSCompiler.exe
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\JiraNemonicIntegration.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\JiraNemonicIntegration.pdb
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Antlr3.Runtime.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Atlassian.Jira.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\EntityFramework.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\EntityFramework.SqlServer.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.AI.Web.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.Owin.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.Owin.Security.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\mscorlib.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Newtonsoft.Json.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Owin.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\RestSharp.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\System.Web.Helpers.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\System.Web.Mvc.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\System.Web.Optimization.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\System.Web.Razor.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\System.Web.WebPages.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\System.Web.WebPages.Razor.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\WebGrease.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.AI.Web.xml
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Newtonsoft.Json.xml
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\System.Web.Helpers.xml
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\System.Web.Mvc.xml
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\System.Web.Optimization.xml
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\System.Web.Razor.xml
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\System.Web.WebPages.xml
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\System.Web.WebPages.Razor.xml
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Antlr3.Runtime.pdb
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\EntityFramework.xml
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\EntityFramework.SqlServer.xml
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.Owin.xml
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.Owin.Security.xml
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\pt-BR\mscorlib.resources.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\normidna.nlp
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\normnfc.nlp
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\normnfd.nlp
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\normnfkc.nlp
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\bin\normnfkd.nlp
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\obj\Debug\JiraNemonicIntegration.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\obj\Debug\JiraNemonicIntegration.dll
+C:\Users\Matheus\Documents\JiraNemonicIntegration\JiraNemonicIntegration\obj\Debug\JiraNemonicIntegration.pdb

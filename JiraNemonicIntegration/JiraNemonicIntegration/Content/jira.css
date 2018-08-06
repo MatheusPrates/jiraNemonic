@@ -1,0 +1,76 @@
+﻿
+
+
+h1
+{
+    position:absolute;
+    text-align:center;
+    width:95%;
+    height:100%;
+    vertical-align: middle;
+    top:15%;
+    font-weight: bold;
+    font-size:450%;
+    padding-bottom:5%;
+}
+
+.issue_label
+{
+    font-size:400%;
+    top:15%;
+}
+
+.issue
+{
+    height:1000px;
+    width:1000px;
+    border:1px solid black;
+    position:relative;
+    float:left;
+    clear:both;
+
+}
+
+.storyp
+{
+    height:50px;
+    width:35%;
+    border-bottom:1px solid black;
+    border-left:1px solid black;
+    position:absolute;
+    top:0px;
+    right:0px;
+    padding-bottom:5%;
+
+
+}
+
+
+.issuekey
+{
+    height:50px;
+    width:35%;
+    border-bottom:1px solid black;
+    border-right:1px solid black;
+    position:absolute;
+    top:0px;
+    left:0px;
+    padding-bottom:5%;
+
+
+}
+
+.bocombbmlogo
+{
+    position:absolute;
+    bottom:10%;
+    width:85%;
+    height:10%;
+    padding-left:5%;
+}
+
+.issue_summary{
+    position:absolute;
+    top:30%;
+    font-size:400%;
+}

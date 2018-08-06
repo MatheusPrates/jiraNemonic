@@ -1,0 +1,42 @@
+﻿@model JiraNemonicIntegration.Models.Issues
+@{
+    ViewBag.Title = "getJiraIssues";
+    Layout = "";
+}
+<link rel="stylesheet" href="~/Content/reset.css">
+<link rel="stylesheet" href="~/Content/jira.css">
+<script src="~/Scripts/jira.js">
+
+
+</script>
+
+<body>
+    <main>
+
+        <div class="allIssues">
+            <!-- Exemplo de layout. -->
+            <!--<div class="issue">
+                <h1 class="issue_label">Controle de Crédito</h1>
+                <h1 class="issue_summary">No liberação de vinculada, parametrizar o check de despesas em aberto para olhar se a despesa é reembolsável. Alem disso parametrizar a questao do arquivo anexado.</h1>
+                <div class="storyp">
+                    <h1>SP: 5</h1>
+                </div>
+
+                <div class="issuekey">
+                    <h1>T-685</h1>
+                </div>
+
+                <img src="~/Images/bocombbm.jpg" class="bocombbmlogo">
+            </div> -->
+
+        </div>
+    </main>
+
+
+</body>
+
+<script>
+
+    var teste = @Html.Raw(Json.Encode(Model));
+    myFunction(teste);
+</script>

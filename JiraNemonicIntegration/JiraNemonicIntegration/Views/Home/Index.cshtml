@@ -1,0 +1,88 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+    Layout = "";
+}
+<link rel="stylesheet" href="../../Content/reset.css">
+<link rel="stylesheet" href="../../Content/bootstrap.css">
+<link rel="stylesheet" href="../../Content/index.css">
+
+<script src="~/Scripts/jira.js"></script>
+
+
+<div class="jumbotron">
+    <h1>Jira-Nemonic Integrator</h1>
+    <button class="btn btn-default" id="switcheroo" onclick="switchViews()">Switch Selector</button>
+</div>
+
+<div class="row">
+    <div class="col-md-12" id="queryAll">
+        <h2>Sprint Selector</h2>
+        <p>
+            Query through all issues from one sprint.
+        </p>
+        <form action="~/Jira/getJiraIssues?" method="post">
+            <div class="center-on-page">
+                <div class="select">
+                    <select name="project" id="slct">
+                        <option>Choose a project</option>
+                        <option value="TARGARYENS">TARGARYENS</option>
+                        <option value="STARKS">STARKS</option>
+                        <option value="TA">AVENGERS</option>
+                        <option value="TTDE">TROPA DE ELITE</option>
+                        <option value="TD">DEVOPS</option>
+                        <option value="BOPE">BOPE</option>
+                    </select>
+
+                </div>
+
+                <input id="snum" name="sprint" type="text" placeholder="Sprint Number" />
+
+            <h2 style="clear:both;text-align:center;font-size:250%;">Provide your Jira Credentials</h2>
+            <input name="login" type="text" placeholder="Your Jira Login." />
+            <input id="Jpassword" style="margin:30px;display: inline-block;width: 20em;height: 3em;margin-top:10px;" name="password" type="password" placeholder="Your Jira Password." />
+            </div>
+            
+            <p>
+                <button class="btn btn-default" type="submit">Get Jira Issues &raquo;</button></p>
+        </form>
+    </div>
+
+
+    <div class="col-md-12 invisivel" id="queryIssues">
+        <h2>Issue Selector</h2>
+        <p>Query through specific issues.</p>
+        <form action="~/Jira/queryJiraIssues?" method="post" id="issueQuery">
+            <!--  <div class="center-on-page dynamicIssue">
+                    <div class="select">
+                        <select name="project[0]" id="slct">
+                            <option>Choose a project</option>
+                            <option value="TARGARYENS">TARGARYENS</option>
+                            <option value="STARKS">STARKS</option>
+                        </select>
+
+                    </div>
+
+                    <input id="snum" name="sprint[0]" type="text" placeholder="Issue key - Ex: 689,717" />
+                   <button class="btn btn-default" id="b_0" type="button" onclick="deleteIssue('b_0')" style = "position:relative;left:8%;top:15px;">Delete Issue</button>
+                </div>-->
+
+             <h2 id="post_issues" style="clear:both;text-align:center;font-size:250%;">Provide your Jira Credentials</h2>
+            <input name="login" type="text" placeholder="Your Jira Login." />
+            <input id="Jpassword" style="margin:30px;display: inline-block;width: 20em;height: 3em;margin-top:10px;" name="password" type="password" placeholder="Your Jira Password." />
+           
+            <p id="submit_query">
+                <button class="btn btn-default left-button" type="button" onclick="addIssue()">Add issue to query &raquo;</button>
+                <button class="btn btn-default" type="submit">Get Jira Issues &raquo;</button>
+                <button class="btn btn-default right-button" type="button" onclick="removeAllIssues()">Delete issues from query &raquo;</button>
+            </p>
+
+        </form>
+
+    </div>
+    <script>
+
+
+        addIssue();
+    </script>
+
+</div>
