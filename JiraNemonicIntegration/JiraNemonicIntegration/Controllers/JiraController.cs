@@ -81,8 +81,19 @@ namespace JiraNemonicIntegration.Controllers
                 if (issue.CustomFields["Sprint"].Values.Count() > 0)
 
                 {
-                    string sprint_find = project.Replace("TARGARYENS", "Targaryen Sprint ").Replace("STARKS", "STARKS Sprint ");
-                    sprint_find = sprint_find.Replace("TA", "Avengers Sprint ").Replace("TTDE", "Tropa Sprint ").Replace("TD", "Team DevOps Sprint ").Replace("BOPE", "");
+                    string sprint_find = "";
+                    switch (project)
+                    {
+                        case "TARGARYENS":  sprint_find += project.Replace("TARGARYENS", "Targaryen Sprint "); break;
+                        case "STARKS": sprint_find += project.Replace("STARKS", "STARKS Sprint "); break;
+                        case "TA": sprint_find += project.Replace("TA", "Avengers Sprint "); break;
+                        case "TTDE": sprint_find += project.Replace("TTDE", "Tropa Sprint "); break;
+                        case "TD": sprint_find += project.Replace("TD", "Team DevOps Sprint "); break;
+                        case "BOPE": sprint_find += project.Replace("BOPE", ""); break;
+                        default: break;
+                    }
+                    //string sprint_find = project.Replace("TARGARYENS", "Targaryen Sprint ").Replace("STARKS", "STARKS Sprint ");
+                    //sprint_find = sprint_find.Replace("TA", "Avengers Sprint ").Replace("TTDE", "Tropa Sprint ").Replace("TD", "Team DevOps Sprint ").Replace("BOPE", "");
                     if (issue.CustomFields["Sprint"].Values.Contains(sprint_find+ sprint))
 
                     {
